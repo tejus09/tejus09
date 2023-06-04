@@ -23,5 +23,11 @@
 <br/>
 </p>
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/abhishek-choudharys/abhishek-choudharys/blob/output/github-contribution-grid-snake.svg)
+## Stuff I did ⏳:
+</br>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tejus09&show_icons=true&theme=tokyonight&count_private=true" width="445" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejus09&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Tejus Kavishwar" width="390"/>
+</p>
+<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tejus09&theme=dark&background=000000)](https://git.io/streak-stats)
